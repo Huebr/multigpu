@@ -28,7 +28,7 @@ Description : CUDA compute reciprocals
 #include <device_functions.h>
 #include <cuda_runtime_api.h>
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h>d
 #include <string.h>
 
 //macros
